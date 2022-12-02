@@ -1,3 +1,3 @@
 # weatherapp
-Minimalist weather website
+Minimalist weather website </br>
 Made using weather data from OpenWeather API
